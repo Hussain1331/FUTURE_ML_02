@@ -154,36 +154,6 @@ High
 
 ---
 
-## 📁 Project Structure
-
-Support-Ticket-Classifier/
-
-├── models/
-
-│ ├── queue_model.pkl
-
-│ ├── priority_model.pkl
-
-│ ├── tfidf.pkl
-
-│ ├── queue_encoder.pkl
-
-│ └── priority_encoder.pkl
-
-│
-
-├── app.py
-
-├── requirements.txt
-
-├── README.md
-
-└── notebook.ipynb
-
----
-
-
-
 ## 🎯 Future Improvements
 
 * Deep Learning Models (LSTM, BERT)
